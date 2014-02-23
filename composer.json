@@ -1,0 +1,16 @@
+{
+	"name"       : "spacedmonkey/disable-xml-rpc-fully",
+	"description": "Disable XML RPC Fully",
+	"homepage"   : "https://github.com/spacedmonkey/disable-xml-rpc-fully/",
+	"type"       : "wordpress-plugin",
+	"license"    : "GPL-2.0+",
+	"authors"    : [
+		{
+			"name"    : "Jonathan Harris",
+			"homepage": "http://www.jonathandavidharris.co.uk/"
+		}
+	],
+	"require": {
+		"composer/installers": "~1.0"
+	}
+}
