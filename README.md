@@ -5,6 +5,7 @@ Simple plugin that disables XML-RPC, since it is enabled by default on WordPress
 
 If you wish to follow the development of this plugin, view the code on the official plugin [website](http://www.jonathandavidharris.co.uk/scripts/ "website") or follow me on twitter [@thespacedmonkey](https://twitter.com/thespacedmonkey)
 
+[![Build Status](https://api.travis-ci.org/spacedmonkey/disable-xml-rpc-fully.png)](http://travis-ci.org/spacedmonkey/disable-xml-rpc-fully)
 
 ## Installation
 
@@ -65,7 +66,4 @@ There are various ways you can contribute:
 * Send us a Pull Request with your bug fixes and/or new features.
 * Provide feedback and suggestions on enhancements.
 
-## Build status
-
-[![Build Status](https://api.travis-ci.org/spacedmonkey/disable-xml-rpc-fully.png)](http://travis-ci.org/spacedmonkey/disable-xml-rpc-fully)
 
