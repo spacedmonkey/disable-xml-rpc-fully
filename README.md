@@ -65,3 +65,7 @@ There are various ways you can contribute:
 * Send us a Pull Request with your bug fixes and/or new features.
 * Provide feedback and suggestions on enhancements.
 
+## Build status
+
+(https://api.travis-ci.org/spacedmonkey/disable-xml-rpc-fully.png)](http://travis-ci.org/spacedmonkey/disable-xml-rpc-fully)
+
