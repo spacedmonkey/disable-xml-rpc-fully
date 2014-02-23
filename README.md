@@ -1,4 +1,4 @@
-Display XML RPC Fully
+Disable XML RPC Fully
 =====================
 
 Simple plugin that disables XML-RPC, since it is enabled by default on WordPress 3.5 and above. It also removed references in the headers and in the body of the html. 
