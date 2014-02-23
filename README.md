@@ -67,5 +67,5 @@ There are various ways you can contribute:
 
 ## Build status
 
-(https://api.travis-ci.org/spacedmonkey/disable-xml-rpc-fully.png)](http://travis-ci.org/spacedmonkey/disable-xml-rpc-fully)
+[![Build Status](https://api.travis-ci.org/spacedmonkey/disable-xml-rpc-fully.png)](http://travis-ci.org/spacedmonkey/disable-xml-rpc-fully)
 
