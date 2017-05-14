@@ -5,16 +5,16 @@
  * @package   Disable_XML_RPC_Fully
  * @author    Jonathan Harris <jon@spacedmonkey.co.uk>
  * @license   GPL-2.0+
- * @link      http://www.jonathandavidharris.co.uk/
+ * @link      http://www.spacedmonkey.com/
  * @copyright 2014 Jonathan Harris
  *
  * @wordpress-plugin
  * Plugin Name:       Disable XML-RPC Fully
- * Plugin URI:        http://www.jonathandavidharris.co.uk/
+ * Plugin URI:        http://www.spacedmonkey.com/
  * Description:       Disable XML-RPC fully, getting rid of references in headers 
  * Version:           1.0.0
  * Author:            Jonathan Harris
- * Author URI:        http://www.jonathandavidharris.co.uk/
+ * Author URI:        http://www.spacedmonkey.com/
  * Text Domain:       disable-xml-rpc-fully
  * License:           GPL-2.0+
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt

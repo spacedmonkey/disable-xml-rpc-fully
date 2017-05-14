@@ -1,6 +1,6 @@
 === Disable XML RPC Fully ===
 Contributors: spacedmonkey
-Donate link: http://www.jonathandavidharris.co.uk/
+Donate link: http://www.spacedmonkey.com/
 Tags: xmlrpc
 Requires at least: 3.5.1
 Tested up to: 3.6
@@ -14,7 +14,7 @@ Simple plugin that disables XML-RPC, since it is enabled by default on WordPress
 
 Simple plugin that disables XML-RPC, since it is enabled by default on WordPress 3.5 and above. It also removed references in the headers and in the body of the html. 
 
-If you wish to follow the development of this plugin, view the code on the official plugin [website](http://www.jonathandavidharris.co.uk/scripts/ "website") or follow me on twitter [@thespacedmonkey](https://twitter.com/thespacedmonkey)
+If you wish to follow the development of this plugin, view the code on the official plugin [website](http://www.spacedmonkey.com/scripts/ "website") or follow me on twitter [@thespacedmonkey](https://twitter.com/thespacedmonkey)
 
 
 == Installation ==

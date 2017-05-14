@@ -5,7 +5,7 @@
  * @package   Disable_XML-RPC_Fully
  * @author    Jonathan Harris <jon@spacedmonkey.co.uk>
  * @license   GPL-2.0+
- * @link      http://www.jonathandavidharris.co.uk/
+ * @link      http://www.spacedmonkey.com/
  * @copyright 2014 Jonathan Harris
  */
 
